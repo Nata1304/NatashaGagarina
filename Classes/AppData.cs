@@ -9,6 +9,6 @@ namespace WpfApp6.Classes
 {
     public static class AppData
     {
-        public static user48Entities db = new user48Entities();
+        public static UserEntities db = new UserEntities();
     }
 }

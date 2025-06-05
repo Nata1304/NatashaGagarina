@@ -5,12 +5,41 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:WpfApp6.Pages"
       mc:Ignorable="d" 
+      Loaded="Page_Loaded"
       d:DesignHeight="450" d:DesignWidth="800"
       Title="AdminPage">
 
-    <Grid Background="Aqua">
-        <Button Width="200"
-                Height="200"
-                Click="Button_Click"/>
+    <Grid Background="Aqua" Margin="0,0,0,-117">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="1"
+          AutoGenerateColumns="False"
+          x:Name="Spisok" Margin="0,0,0,75">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="*" Binding="{Binding ID}"/>
+                <DataGridTextColumn Header="Login" Width="*" Binding="{Binding Login}"/>
+                <DataGridTextColumn Header="Password" Width="*" Binding="{Binding Password}"/>
+                <DataGridTextColumn Header="Password" Width="*" Binding="{Binding LName}"/>
+                <DataGridTextColumn Header="Password" Width="*" Binding="{Binding FName}"/>
+                <DataGridTextColumn Header="Password" Width="*" Binding="{Binding MName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="1" Margin="0,311,0,0" Grid.RowSpan="2">
+            <Button Click="Add"
+            Height="30"
+            Width="100"
+            Content="Добавить"/>
+            <Button Click="Delit"
+            Height="30"
+            Width="100"
+            Content="Удалить"/>
+            <TextBox x:Name="SearchTextBox" HorizontalAlignment="Right" TextChanged="SearchTextBox_TextChanged" TextWrapping="Wrap" Text="П" Width="109" Height="20" />
+            <TextBox x:Name="SearchTextBox1" TextWrapping="Wrap" Text="Ф" Width="120" TextChanged="SearchTextBox_TextChanged"/>
+            <Button Content="Button" Height="20" Width="100" Click="Button_Click_1"/>
+        </StackPanel>
+        <Button Content="сортировать" HorizontalAlignment="Center" Margin="0,432,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.RowSpan="2" Click="SortByFName_Click"/>
     </Grid>
 </Page>

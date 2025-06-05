@@ -15,10 +15,10 @@ namespace WpfApp6.Models
     using System.Data.Entity.Core.Objects;
     using System.Linq;
     
-    public partial class user48Entities : DbContext
+    public partial class UserEntities : DbContext
     {
-        public user48Entities()
-            : base("name=user48Entities")
+        public UserEntities()
+            : base("name=UserEntities")
         {
         }
     
@@ -28,7 +28,7 @@ namespace WpfApp6.Models
         }
     
         public virtual DbSet<Role> Role { get; set; }
-        public virtual DbSet<USerrr> USerrr { get; set; }
+        public virtual DbSet<User> User { get; set; }
     
         public virtual int sp_alterdiagram(string diagramname, Nullable<int> owner_id, Nullable<int> version, byte[] definition)
         {

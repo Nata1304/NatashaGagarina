@@ -28,8 +28,8 @@ namespace WpfApp6.Pages
 
         private void BtnSignIn_Click(object sender, RoutedEventArgs e)
         {
-            var CurrentUser = AppData.db.USerrr.FirstOrDefault
-               (u => u.LOgin == TxbLogin.Text && u.Password == TxbPassword.Text);
+            var CurrentUser = AppData.db.User.FirstOrDefault
+               (u => u.Login == TxbLogin.Text && u.Password == TxbPassword.Text);
             if (CurrentUser == null)
             {
                 MessageBox.Show("Такого пользователя нет в базе данных");

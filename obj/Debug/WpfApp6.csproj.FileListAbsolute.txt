@@ -26,3 +26,65 @@ C:\Users\tony\source\repos\WpfApp6\WpfApp6\obj\Debug\Pages\AdminPage.baml
 C:\Users\tony\source\repos\WpfApp6\WpfApp6\obj\Debug\Pages\SignInPage.baml
 C:\Users\tony\source\repos\WpfApp6\WpfApp6\obj\Debug\Pages\UserPage.baml
 C:\Users\tony\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.CopyComplete
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.dll
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.xml
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\SignInPage.g.cs
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\UserPage.g.cs
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\App.g.cs
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6_Content.g.cs
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\MainWindow.baml
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AdminPage.baml
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\SignInPage.baml
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\UserPage.baml
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.CopyComplete
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.pdb
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AddPage.g.cs
+C:\Users\pl9011\Desktop\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AddPage.baml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe.config
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AddPage.g.cs
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\SignInPage.g.cs
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\UserPage.g.cs
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\App.g.cs
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6_Content.g.cs
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.pdb
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.dll
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.xml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\MainWindow.baml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AddPage.baml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\AdminPage.baml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\SignInPage.baml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\Pages\UserPage.baml
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\gagar\Desktop\Новая папка\WpfApp6\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.Up2Date

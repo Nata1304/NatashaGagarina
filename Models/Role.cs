@@ -17,13 +17,13 @@ namespace WpfApp6.Models
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Role()
         {
-            this.USerrr = new HashSet<USerrr>();
+            this.User = new HashSet<User>();
         }
     
         public int ID { get; set; }
         public string Title { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<USerrr> USerrr { get; set; }
+        public virtual ICollection<User> User { get; set; }
     }
 }

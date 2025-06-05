@@ -12,13 +12,13 @@ namespace WpfApp6.Models
     using System;
     using System.Collections.Generic;
     
-    public partial class USerrr
+    public partial class User
     {
         public int ID { get; set; }
-        public string LOgin { get; set; }
+        public string Login { get; set; }
         public string Password { get; set; }
-        public string FNAme { get; set; }
-        public string MNAme { get; set; }
+        public string FName { get; set; }
+        public string MName { get; set; }
         public string LName { get; set; }
         public System.DateTime BDate { get; set; }
         public int RoleID { get; set; }
